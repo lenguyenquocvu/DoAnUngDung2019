@@ -1,0 +1,8 @@
+D:\C#_2019\Project-CSharp-QuanLySinhVien\Project-CSharp-QuanLySinhVien\bin\Debug\Project-CSharp-QuanLySinhVien.exe
+D:\C#_2019\Project-CSharp-QuanLySinhVien\Project-CSharp-QuanLySinhVien\bin\Debug\Project-CSharp-QuanLySinhVien.pdb
+D:\C#_2019\Project-CSharp-QuanLySinhVien\Project-CSharp-QuanLySinhVien\obj\Debug\Project-CSharp-QuanLySinhVien.csprojAssemblyReference.cache
+D:\C#_2019\Project-CSharp-QuanLySinhVien\Project-CSharp-QuanLySinhVien\obj\Debug\Project_CSharp_QuanLySinhVien.frmSinhVien.resources
+D:\C#_2019\Project-CSharp-QuanLySinhVien\Project-CSharp-QuanLySinhVien\obj\Debug\Project_CSharp_QuanLySinhVien.Properties.Resources.resources
+D:\C#_2019\Project-CSharp-QuanLySinhVien\Project-CSharp-QuanLySinhVien\obj\Debug\Project-CSharp-QuanLySinhVien.csproj.GenerateResource.cache
+D:\C#_2019\Project-CSharp-QuanLySinhVien\Project-CSharp-QuanLySinhVien\obj\Debug\Project-CSharp-QuanLySinhVien.exe
+D:\C#_2019\Project-CSharp-QuanLySinhVien\Project-CSharp-QuanLySinhVien\obj\Debug\Project-CSharp-QuanLySinhVien.pdb
